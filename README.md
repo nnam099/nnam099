@@ -22,13 +22,13 @@ I am focusing on developing my skills through CTF competitions, malware research
 
 ## 🛠️ Technical Skills
 
-| Field | Tools / Languages / Frameworks |
+| Field | Tools / Frameworks |
 | :--- | :--- |
-| **Cybersecurity** | Volatility, Wireshark, Nmap, Burp Suite, Metasploit, GDB, IDA Pro, |
-| **AI / Machine Learning** | Python, Scikit-learn, Transformers, OpenAI API, Flask |
-| **Development** | C/C++, Java, Python, SQL, Assembly |
-| **DevOps & Cloud** | Docker, Terraform, AWS, CI/CD pipelines |
-| **Database** | ERD Design, SQL Server, MySQL |
+| **Incident Response** | Volatility3, Autopsy, |
+| **Network Analysis** | Snort, Wireshark,  |
+| **Malware Analysis** | IDA Pro, Ghidra, x64dbg, |
+| **Development** | Python, PowerShell, Bash, |
+| **OS Environments** | Windows, Parrot, Kali, WSL2, Oracle VirtualBox |
 
 ---
 
