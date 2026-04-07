@@ -1,4 +1,4 @@
-# Hi, I'm Nhật Nam (nnam09) 👋
+# Hi, I'm Vo Nguyen Nhat Nam(nnam09) 👋
 
 🎓 **Junior Information Security Student at [Post and Telecommunications Institute of Technology (PTIT)](https://portal.ptithcm.edu.vn/)**
 🛡️ **Aspiring Cybersecurity Researcher | CTF Player**
