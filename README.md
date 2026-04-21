@@ -1,7 +1,7 @@
 # Hi, I'm Vo Nguyen Nhat Nam (nnam09) 👋
 
 🎓 **Junior Information Security Student at [Post and Telecommunications Institute of Technology (PTIT)](https://portal.ptithcm.edu.vn/)**
-🛡️ **Certified Threat Intelligence & Governance Analyst (CTIGA) | CTF Player**
+🛡️ **CTF Player**
 🤖 **AI in Security Researcher | Deep Learning & Anomaly Detection**
 📍 **Ho Chi Minh City, Vietnam 🇻🇳 | Actively Seeking SOC / Blue Team / DFIR Internships**
 
@@ -34,7 +34,6 @@ I am focusing on bridging the gap between system security and artificial intelli
 
 ## 🚀 Key Projects & Achievements
 
-* 🏆 **Certifications:** Achieved **CTIGA** (Certified Threat Intelligence & Governance Analyst) - Feb 2026.
 * 🛡️ **DDoS Detection & Analysis Pipeline:** Engineered a robust lab environment and pipeline integrating pfSense, ELK stack, and custom Transformer-based AI models for real-time anomalous traffic analysis.
 * 💻 **System Design & Development:** Designed a comprehensive bus ticket booking system, focusing on database schemas, functional requirements, and complex business logic for seat reservations.
 * 🌐 **ChatGPT Web Generator:** A Flask and Docker application that automatically generates website interfaces based on user-inputted topics.
