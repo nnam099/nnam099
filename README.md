@@ -36,7 +36,6 @@ I am focusing on bridging the gap between system security and artificial intelli
 
 * 🏆 **Certifications:** Achieved **CTIGA** (Certified Threat Intelligence & Governance Analyst) - Feb 2026.
 * 🛡️ **DDoS Detection & Analysis Pipeline:** Engineered a robust lab environment and pipeline integrating pfSense, ELK stack, and custom Transformer-based AI models for real-time anomalous traffic analysis.
-* 🤖 **AI Competitions:** Proud member of the AI project team **"Trọ Cây Khế"**, applying machine learning concepts to solve complex competitive challenges.
 * 💻 **System Design & Development:** Designed a comprehensive bus ticket booking system, focusing on database schemas, functional requirements, and complex business logic for seat reservations.
 * 🌐 **ChatGPT Web Generator:** A Flask and Docker application that automatically generates website interfaces based on user-inputted topics.
 * 🏁 **CTF Writeups:** A collection of solutions and methodologies for Capture The Flag challenges I have participated in.
