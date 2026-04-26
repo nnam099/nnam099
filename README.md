@@ -13,7 +13,7 @@ I am focusing on bridging the gap between system security and artificial intelli
 
 > "Constantly learning to master cyberspace. Leveraging AI to automate threat detection and fortify system infrastructure."
 
-* 🛡️ **Cybersecurity Focus:** Deeply involved in SOC monitoring, Memory Forensics, and Reverse Engineering through CTF competitions. Currently preparing for the Burp Suite Certified Practitioner (BSCP) certification.
+* 🛡️ **Cybersecurity Focus:** Deeply involved in SOC monitoring, Memory Forensics, and Reverse Engineering through CTF competitions. 
 * 🤖 **AI & Threat Hunting:** Researching and training hybrid Deep Learning models (**CNN-BiLSTM-Transformer**) on datasets like **UNSW-NB15** and **CIC-IDS2017** for DDoS mitigation and Zero-day attack detection.
 * ⚙️ **Infrastructure & SecOps:** Deploying comprehensive security monitoring pipelines integrating **pfSense**, the **ELK Stack**, and custom AI models. Hands-on experience with AWS, Docker, and Terraform.
 * 💻 **Development:** Automating security tasks and building solid algorithms using **Python, C++, and Assembly**. 
@@ -28,7 +28,7 @@ I am focusing on bridging the gap between system security and artificial intelli
 | **DFIR & Malware Analysis** | Volatility3, Autopsy, IDA Pro, Ghidra, x64dbg, GDB |
 | **AI & Data Science** | CNN-BiLSTM-Transformer architectures, Deep Learning |
 | **Development & Scripting** | Python, C++, Assembly, PowerShell, Bash |
-| **Cloud, OS & DevOps** | Parrot OS, Kali, AWS (IAM), Docker, Terraform, VMware |
+| **Cloud, OS & DevOps** | Parrot OS, Kali, AWS (IAM), Docker, VMware |
 
 ---
 
